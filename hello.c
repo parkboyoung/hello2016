@@ -5,5 +5,6 @@ void foo()
 }
 void main()
 {
-	printf("hi~ my name is boyoung! nice to meet you!");
+	printf("it is new debug123");
+	printf("bye bye master pointer!");
 }
