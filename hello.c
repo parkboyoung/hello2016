@@ -11,4 +11,5 @@ void main()
 	printf("bye bye master pointer!");
 	printf("you can't sleep anymore");
 	printf("it is new debug345");
+	printf("ehfoalvkthffktleh");
 }
