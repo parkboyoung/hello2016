@@ -3,6 +3,7 @@ void foo()
 {
 	printf("my name is boyoung");
 	printf("it is foo function!!");
+	printf("hi boyoung. my name is boyoung2");
 }
 void main()
 {
