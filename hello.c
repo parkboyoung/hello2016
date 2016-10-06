@@ -1,7 +1,7 @@
 #include<stdio>
 void foo()
 {
-	printf("it is foo function");
+	printf("I'm sleepy");
 }
 void main()
 {
