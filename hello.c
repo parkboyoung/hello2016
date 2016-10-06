@@ -5,7 +5,7 @@ void foo()
 }
 void main()
 {
-	printf("it is new debug123");
-	printf("bye bye master pointer!");
+	printf("it is new debug345");
+	printf("I want to sleep more");
 	printf("this is my computer!");
 }
